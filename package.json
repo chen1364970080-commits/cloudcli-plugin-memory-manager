@@ -1,0 +1,13 @@
+{
+  "name": "memory-manager",
+  "version": "1.0.0",
+  "description": "CloudCLI UI plugin — browse and manage Claude Code memory entries",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}

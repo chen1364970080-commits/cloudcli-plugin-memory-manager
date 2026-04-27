@@ -1,0 +1,7 @@
+{
+  "name": "memory-manager",
+  "displayName": "Memory Manager",
+  "slot": "tab",
+  "entry": "dist/index.js",
+  "server": "dist/server.js"
+}
